@@ -1,0 +1,15 @@
+{
+  "name": "@richard_gabriel/engine-serverless",
+  "version": "1.0.4",
+  "description": "plugin para utilização em conjunto com o framework serverless",
+  "main": "engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RichardUlissesGabriel/engine-serverless"
+  },
+  "author": "Richard Ulisses Gabriel",
+  "license": "MIT"
+}
